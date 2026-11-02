@@ -14,7 +14,7 @@
 </p>
 
 <p align="center">
-  <img src="docs/screenshot.png" width="880" alt="Socialite showing Twitch inside a Gaming profile">
+  <img src="docs/screenshot.png" width="880" alt="Socialite showing WhatsApp inside a Personal profile">
 </p>
 
 ## What it is
