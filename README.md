@@ -9,8 +9,8 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/Amariless/Socialite-Releases/releases/download/v0.3.3/Socialite-Setup-0.3.3.exe"><img src="https://img.shields.io/badge/Windows-Installer_.exe-17161c?style=for-the-badge&labelColor=6c5ce7&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNCA5LjggMnY5LjRIMHpNMTEgMS44IDI0IDB2MTEuM0gxMXpNMCAxMi42aDkuOFYyMkwwIDIwLjZ6TTExIDEyLjZoMTNWMjRsLTEzLTEuOHoiLz48L3N2Zz4=" alt="Download for Windows"></a>
-  <a href="https://github.com/Amariless/Socialite-Releases/releases/download/v0.3.3/Socialite-0.3.3-linux-x86_64.AppImage"><img src="https://img.shields.io/badge/Linux-AppImage-17161c?style=for-the-badge&labelColor=6c5ce7&logo=linux&logoColor=white" alt="Download for Linux"></a>
+  <a href="https://github.com/Amariless/Socialite-Releases/releases/download/v1.0.0/Socialite-Setup-1.0.0.exe"><img src="https://img.shields.io/badge/Windows-Installer_.exe-17161c?style=for-the-badge&labelColor=6c5ce7&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0wIDMuNCA5LjggMnY5LjRIMHpNMTEgMS44IDI0IDB2MTEuM0gxMXpNMCAxMi42aDkuOFYyMkwwIDIwLjZ6TTExIDEyLjZoMTNWMjRsLTEzLTEuOHoiLz48L3N2Zz4=" alt="Download for Windows"></a>
+  <a href="https://github.com/Amariless/Socialite-Releases/releases/download/v1.0.0/Socialite-1.0.0-linux-x86_64.AppImage"><img src="https://img.shields.io/badge/Linux-AppImage-17161c?style=for-the-badge&labelColor=6c5ce7&logo=linux&logoColor=white" alt="Download for Linux"></a>
 </p>
 
 <p align="center">
@@ -62,10 +62,10 @@ Socialite puts WhatsApp, Telegram, Discord, Instagram, Slack and everything else
 
 | System | Download | Notes |
 |---|---|---|
-| **Windows** | [Installer (.exe)](https://github.com/Amariless/Socialite-Releases/releases/download/v0.3.3/Socialite-Setup-0.3.3.exe) | Windows 10 or 11. |
-| **Linux** | [AppImage](https://github.com/Amariless/Socialite-Releases/releases/download/v0.3.3/Socialite-0.3.3-linux-x86_64.AppImage) | Any distribution. Make it executable (`chmod +x`) and open it. |
-| **Arch, CachyOS, Manjaro** | [Package (.pacman)](https://github.com/Amariless/Socialite-Releases/releases/download/v0.3.3/Socialite-0.3.3-linux-x64.pacman) | Install it with `sudo pacman -U` followed by the file name. |
-| **Debian, Ubuntu, Mint** | [Package (.deb)](https://github.com/Amariless/Socialite-Releases/releases/download/v0.3.3/Socialite-0.3.3-linux-amd64.deb) | Double-click it or install it with `sudo apt install ./` followed by the file name. |
+| **Windows** | [Installer (.exe)](https://github.com/Amariless/Socialite-Releases/releases/download/v1.0.0/Socialite-Setup-1.0.0.exe) | Windows 10 or 11. |
+| **Linux** | [AppImage](https://github.com/Amariless/Socialite-Releases/releases/download/v1.0.0/Socialite-1.0.0-linux-x86_64.AppImage) | Any distribution. Make it executable (`chmod +x`) and open it. |
+| **Arch, CachyOS, Manjaro** | [Package (.pacman)](https://github.com/Amariless/Socialite-Releases/releases/download/v1.0.0/Socialite-1.0.0-linux-x64.pacman) | Install it with `sudo pacman -U` followed by the file name. |
+| **Debian, Ubuntu, Mint** | [Package (.deb)](https://github.com/Amariless/Socialite-Releases/releases/download/v1.0.0/Socialite-1.0.0-linux-amd64.deb) | Double-click it or install it with `sudo apt install ./` followed by the file name. |
 
 There's no macOS version yet. Older versions and release notes are on the [Releases](https://github.com/Amariless/Socialite-Releases/releases) page.
 
