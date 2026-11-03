@@ -46,6 +46,7 @@ Socialite puts WhatsApp, Telegram, Discord, Instagram, Slack and everything else
 - **Notifications from your system**, with on/off switches for each profile and each service, and a *Do not disturb* schedule.
 - **Unread counts** in the sidebar and on the app icon.
 - **Jump anywhere** with <kbd>Ctrl</kbd>+<kbd>K</kbd>.
+- **Six languages.** <img src="https://flagcdn.com/20x15/es.png" width="20" height="15" alt=""> Español · <img src="https://flagcdn.com/20x15/gb.png" width="20" height="15" alt=""> English · <img src="https://flagcdn.com/20x15/br.png" width="20" height="15" alt=""> Português · <img src="https://flagcdn.com/20x15/fr.png" width="20" height="15" alt=""> Français · <img src="https://flagcdn.com/20x15/de.png" width="20" height="15" alt=""> Deutsch · <img src="https://flagcdn.com/20x15/it.png" width="20" height="15" alt=""> Italiano. It follows your system language, or you can pick one in *Settings → General*.
 - **Dark mode for every site**, even the ones that don't have one.
 - **Light on memory.** Services you don't use stay asleep until you open them. The ones you need notifications from can stay always on.
 - **Built-in tracker blocking**, plus the extensions you already use in Chrome, Brave, Edge or Firefox (an ad blocker, for example).
@@ -56,7 +57,6 @@ Socialite puts WhatsApp, Telegram, Discord, Instagram, Slack and everything else
 
 - **Gmail and Google sign-in don't work.** Google deliberately blocks signing in from apps that embed websites, like Socialite. That's why Gmail isn't in the list, and signing in to other sites with your Google account may fail too. There's no reliable fix for this yet.
 - The unread count comes from each page's title. Services that only change their icon won't show a number, although their notifications still arrive.
-- The interface is in Spanish for now.
 
 ## Download
 
